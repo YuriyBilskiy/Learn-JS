@@ -20,5 +20,3 @@ const isChecked = false,
         isClose = false;
         console.log(isChecked || !isClose);
 
-const Yuriy = 22.
-console.log(Yuriy);
