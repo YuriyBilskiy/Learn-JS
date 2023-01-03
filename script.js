@@ -19,3 +19,6 @@ console.log(2+4*2 != '6');
 const isChecked = false,
         isClose = false;
         console.log(isChecked || !isClose);
+
+const Yuriy = 22.
+console.log(Yuriy);
